@@ -1,11 +1,10 @@
-// write your code here
 #include <iostream>
 #include <cstdlib>
 using namespace std;
 int main() 
 {
   int num, value;
-  cout << " Enter Number of values desired" << endl;
+  cout << "input: ";
   num =1;
   cin >> value;
   while (num <= value )
